@@ -29,7 +29,7 @@ function App() {
   }
   const handleClick3 = () => {
     // Counter state is incremented
-    setCounter(counter == 0);
+    setCounter(0);
     window.location.reload()
   }
  
