@@ -24,7 +24,7 @@ function App() {
     }
      
     else {
-    setCounter(counter - 1)
+    setCounter(counter - 10)
     }
   }
   const handleClick3 = () => {
